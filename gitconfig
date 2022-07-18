@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lavithian@hotmail.com
+	name = Micah
